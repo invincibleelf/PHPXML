@@ -1,0 +1,26 @@
+body {
+	color: #000000;
+}
+
+h1 {
+	text-align: center;
+}
+.container {
+	background-color: #73d216;
+	width: 500px;
+	position: absolute;
+	top: 25vh;
+	left: 25%;
+}
+
+.formElement {
+	margin: 10px;
+}
+
+.formElement img {
+	min-width: 100%;
+	margin-bottom: 10px;
+}
+.error {
+	color:red;
+}

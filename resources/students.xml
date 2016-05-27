@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<students>
+	<student>
+		<student_id>214501289</student_id>
+		<email>sshara@deakin.edu.au</email>
+		<lastname>Sharad</lastname>
+		<firstname>Shrestha</firstname>
+		<address>Glen Iris</address>
+	</student>
+	<student>
+		<student_id>214501289</student_id>
+		<email>sshara@deakin.edu.au</email>
+		<lastname>Sharad</lastname>
+		<firstname>Shrestha</firstname>
+		<address>Glen Iris</address>
+	</student>
+	<student>
+		<student_id>214501289</student_id>
+		<email>sshara@deakin.edu.au</email>
+		<lastname>Sharad</lastname>
+		<firstname>Shrestha</firstname>
+		<address>Glen Iris</address>
+	</student>
+</students>
